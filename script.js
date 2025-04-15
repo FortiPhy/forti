@@ -1,0 +1,1 @@
+console.log('FortiPhy Lab interakcije pokrenute.');
